@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+label{
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+.css-1xjsnt2{
+    background-color: rgb(0, 0, 0);
+}
+
+.css-1045ahi{
+    background-color: black;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    color: #000000;
+}
+/* --------titulo------- */
+
+.user{
+    background-color: rgba(128, 128, 128, 0.432);
+    border-radius: 30px;
+}
+/* --------usuario------- */
+
+
+h2:hover{
+    color: #ff0000;
+}
+
+p{
+    font-size: 12px;
+    font-family: 'Raleway', sans-serif;
+    cursor: pointer;
+}
+/* --------escrita cadastro------- */
+
+p:hover{
+    text-decoration: underline;
+    color: #2b6cb0;
+}
+.alinhador{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.span{
+    color: #000000;
+}
+
+span:hover{
+    text-decoration: underline;
+    color: #ff0000;
+}
+.parte-registro{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+/* --------registro------- */
+
